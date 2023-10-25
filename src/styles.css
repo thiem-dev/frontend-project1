@@ -1,0 +1,12 @@
+:root{
+--text: #1a0a0a;
+--background: #f2dede;
+--primary: #8d6235;
+--secondary: #e5e6bc;
+--accent: #9a9b3b;
+
+}
+
+*{
+    border: .5px solid rgba(0, 0, 0, 0.555);
+}
